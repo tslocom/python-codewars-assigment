@@ -1,0 +1,1 @@
+Open codewars_solutions.py to view solutions to the assignment.
